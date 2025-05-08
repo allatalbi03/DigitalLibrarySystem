@@ -1,0 +1,27 @@
+MIT License
+
+Copyright (c) 2025 - Ala Talbi
+
+Definitions:
+- "Digital Library Management System": Includes all project components:
+  * Source code (Java files in src/)
+  * Documentation (README.md, data files)
+  * Related assets
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this Digital Library Management System and associated documentation files, 
+to deal in the System without restriction, including:
+1. Rights to use, copy, modify, merge
+2. Rights to publish, distribute, sublicense
+3. Rights to use for commercial purposes
+
+Conditions:
+1. The above copyright notice and this permission notice shall be included 
+   in all copies or substantial portions of the System.
+2. Original license terms must remain intact.
+
+THE SYSTEM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
+
+Contact: allatalbi2003@gmail.com

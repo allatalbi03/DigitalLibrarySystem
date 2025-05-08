@@ -1,0 +1,29 @@
+# ملفات مترجمة وجاهزة للتشغيل
+bin/
+*.class
+*.jar
+*.war
+*.ear
+
+# ملفات بيئة التطوير
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+*.log
+
+# ملفات البيانات المحلية
+data/*.tmp
+data/*.log
+data/*.cache
+
+# استثناءات خاصة
+!data/config.properties  # نستثني ملف الإعدادات المهم
